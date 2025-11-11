@@ -9,5 +9,9 @@
 <body>
     <h1>Hello World !</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat alias numquam fugit inventore error similique ab repellendus cum nisi sunt qui harum natus assumenda, dolor molestias nostrum? Fuga, mollitia laudantium.</p>
+    <ul>
+        <li>Angga Sagita Dewa</li>
+        <li>Dewa Rudy</li>
+    </ul>
 </body>
 </html>
